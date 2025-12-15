@@ -1,5 +1,5 @@
 name: Configurate Azure environment
-
+# Some comment to make a pull request
 on:
   pull_request:
     types: [labeled]
