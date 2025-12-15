@@ -1,5 +1,5 @@
 name: Deploy to staging
-# It thought that i would copy paste this in
+
 on:
   pull_request:
     types: [labeled]
